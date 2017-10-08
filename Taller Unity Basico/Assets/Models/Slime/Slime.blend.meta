@@ -1,0 +1,280 @@
+fileFormatVersion: 2
+guid: 4518b941ea9ff0d4eb5966ff5b512865
+timeCreated: 1491562925
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Cone
+    100002: Cone_001
+    100004: Cone_002
+    100006: Cone_003
+    100008: Cone_004
+    100010: Cone_005
+    100012: Cone_007
+    100014: //RootNode
+    100016: Sphere
+    100018: Armature
+    100020: Bone
+    100022: Bone_001
+    100024: Bone_002
+    100026: Bone_003
+    100028: Bone_004
+    100030: Bone_006
+    100032: Bone_008
+    100034: Bone_L
+    100036: Bone_R
+    100038: Cone_000
+    100040: BaseBackBone
+    100042: BaseFrontBone
+    100044: BaseLeftBone
+    100046: BaseRightBone
+    100048: Body
+    100050: Head
+    100052: Jaw
+    100054: MasterBone
+    100056: Mouth
+    100058: Sphere_001
+    400000: Cone
+    400002: Cone_001
+    400004: Cone_002
+    400006: Cone_003
+    400008: Cone_004
+    400010: Cone_005
+    400012: Cone_007
+    400014: //RootNode
+    400016: Sphere
+    400018: Armature
+    400020: Bone
+    400022: Bone_001
+    400024: Bone_002
+    400026: Bone_003
+    400028: Bone_004
+    400030: Bone_006
+    400032: Bone_008
+    400034: Bone_L
+    400036: Bone_R
+    400038: Cone_000
+    400040: BaseBackBone
+    400042: BaseFrontBone
+    400044: BaseLeftBone
+    400046: BaseRightBone
+    400048: Body
+    400050: Head
+    400052: Jaw
+    400054: MasterBone
+    400056: Mouth
+    400058: Sphere_001
+    2300000: Cone
+    2300002: Cone_001
+    2300004: Cone_002
+    2300006: Cone_003
+    2300008: Cone_004
+    2300010: Cone_005
+    2300012: Cone_007
+    2300014: Sphere
+    3300000: Cone
+    3300002: Cone_001
+    3300004: Cone_002
+    3300006: Cone_003
+    3300008: Cone_004
+    3300010: Cone_005
+    3300012: Cone_007
+    3300014: Sphere
+    4300000: Cone_007
+    4300002: Cone_005
+    4300004: Cone_004
+    4300006: Cone_003
+    4300008: Cone_002
+    4300010: Cone_001
+    4300012: Cone
+    4300014: Sphere
+    4300016: Cone_000
+    4300018: Sphere_001
+    7400000: Default Take
+    7400002: Moving
+    9500000: //RootNode
+    13700000: Cone_000
+    13700002: Cone_002
+    13700004: Sphere
+    13700006: Sphere_001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: -1
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/MasterBone
+        weight: 1
+      - path: Armature/MasterBone/BaseBackBone
+        weight: 1
+      - path: Armature/MasterBone/BaseFrontBone
+        weight: 1
+      - path: Armature/MasterBone/BaseLeftBone
+        weight: 1
+      - path: Armature/MasterBone/BaseRightBone
+        weight: 1
+      - path: Armature/MasterBone/Body
+        weight: 1
+      - path: Armature/MasterBone/Body/Head
+        weight: 1
+      - path: Armature/MasterBone/Body/Jaw
+        weight: 1
+      - path: Armature/MasterBone/Body/Mouth
+        weight: 1
+      - path: Cone_000
+        weight: 1
+      - path: Cone_002
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Moving
+      takeName: Moving
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/MasterBone
+        weight: 1
+      - path: Armature/MasterBone/BaseBackBone
+        weight: 1
+      - path: Armature/MasterBone/BaseFrontBone
+        weight: 1
+      - path: Armature/MasterBone/BaseLeftBone
+        weight: 1
+      - path: Armature/MasterBone/BaseRightBone
+        weight: 1
+      - path: Armature/MasterBone/Body
+        weight: 1
+      - path: Armature/MasterBone/Body/Head
+        weight: 1
+      - path: Armature/MasterBone/Body/Jaw
+        weight: 1
+      - path: Armature/MasterBone/Body/Mouth
+        weight: 1
+      - path: Cone_000
+        weight: 1
+      - path: Cone_002
+        weight: 1
+      - path: Sphere
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: c7a3a8c45ef71df49a81d22d877c020c
+timeCreated: 1491475391
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bench
+    100002: BenchTable
+    100004: Boat
+    100006: Bridge
+    100008: Bush
+    100010: DoubleBench
+    100012: FanceConnector
+    100014: Fence_0
+    100016: Flowers
+    100018: Fountain1
+    100020: Fountain_1
+    100022: GrassTile
+    100024: GrassTile.001
+    100026: GrassTile.002
+    100028: GrassTile.003
+    100030: GrassTile.004
+    100032: Lamp.001
+    100034: Rock
+    100036: Tile_Area
+    100038: Tile_Area2
+    100040: Tile_Corner
+    100042: Tile_High
+    100044: Tile_Intersection
+    100046: Tile_Intersection2
+    100048: Tile_Road
+    100050: //RootNode
+    100052: Tole_Med
+    100054: Trassh Bin
+    100056: Tree_1
+    100058: Tree_2
+    100060: Tree_3
+    100062: Tree_4
+    100064: Tree_5
+    100066: WaterTile.
+    100068: Wooden Bridge
+    100070: GrassTile.005
+    100072: GrassTile.006
+    100074: GroundTile
+    100076: GTileComplete
+    100078: GTileCorner
+    100080: GTileSide
+    100082: GTileThin
+    100084: GTileThree
+    100086: GTileTop
+    100088: Rock2
+    100090: Camera
+    100092: Lamp
+    100094: Sun
+    100096: Sun.001
+    100098: Circle
+    400000: Bench
+    400002: BenchTable
+    400004: Boat
+    400006: Bridge
+    400008: Bush
+    400010: DoubleBench
+    400012: FanceConnector
+    400014: Fence_0
+    400016: Flowers
+    400018: Fountain1
+    400020: Fountain_1
+    400022: GrassTile
+    400024: GrassTile.001
+    400026: GrassTile.002
+    400028: GrassTile.003
+    400030: GrassTile.004
+    400032: Lamp.001
+    400034: Rock
+    400036: Tile_Area
+    400038: Tile_Area2
+    400040: Tile_Corner
+    400042: Tile_High
+    400044: Tile_Intersection
+    400046: Tile_Intersection2
+    400048: Tile_Road
+    400050: //RootNode
+    400052: Tole_Med
+    400054: Trassh Bin
+    400056: Tree_1
+    400058: Tree_2
+    400060: Tree_3
+    400062: Tree_4
+    400064: Tree_5
+    400066: WaterTile.
+    400068: Wooden Bridge
+    400070: GrassTile.005
+    400072: GrassTile.006
+    400074: GroundTile
+    400076: GTileComplete
+    400078: GTileCorner
+    400080: GTileSide
+    400082: GTileThin
+    400084: GTileThree
+    400086: GTileTop
+    400088: Rock2
+    400090: Camera
+    400092: Lamp
+    400094: Sun
+    400096: Sun.001
+    400098: Circle
+    2300000: Bench
+    2300002: BenchTable
+    2300004: Boat
+    2300006: Bridge
+    2300008: Bush
+    2300010: DoubleBench
+    2300012: FanceConnector
+    2300014: Fence_0
+    2300016: Flowers
+    2300018: Fountain1
+    2300020: Fountain_1
+    2300022: GrassTile
+    2300024: GrassTile.001
+    2300026: GrassTile.002
+    2300028: GrassTile.003
+    2300030: GrassTile.004
+    2300032: Lamp.001
+    2300034: Rock
+    2300036: Tile_Area
+    2300038: Tile_Area2
+    2300040: Tile_Corner
+    2300042: Tile_High
+    2300044: Tile_Intersection
+    2300046: Tile_Intersection2
+    2300048: Tile_Road
+    2300050: Tole_Med
+    2300052: Trassh Bin
+    2300054: Tree_1
+    2300056: Tree_2
+    2300058: Tree_3
+    2300060: Tree_4
+    2300062: Tree_5
+    2300064: WaterTile.
+    2300066: Wooden Bridge
+    2300068: GrassTile.005
+    2300070: GrassTile.006
+    2300072: GroundTile
+    2300074: GTileComplete
+    2300076: GTileCorner
+    2300078: GTileSide
+    2300080: GTileThin
+    2300082: GTileThree
+    2300084: GTileTop
+    2300086: Rock2
+    2300088: Circle
+    3300000: Bench
+    3300002: BenchTable
+    3300004: Boat
+    3300006: Bridge
+    3300008: Bush
+    3300010: DoubleBench
+    3300012: FanceConnector
+    3300014: Fence_0
+    3300016: Flowers
+    3300018: Fountain1
+    3300020: Fountain_1
+    3300022: GrassTile
+    3300024: GrassTile.001
+    3300026: GrassTile.002
+    3300028: GrassTile.003
+    3300030: GrassTile.004
+    3300032: Lamp.001
+    3300034: Rock
+    3300036: Tile_Area
+    3300038: Tile_Area2
+    3300040: Tile_Corner
+    3300042: Tile_High
+    3300044: Tile_Intersection
+    3300046: Tile_Intersection2
+    3300048: Tile_Road
+    3300050: Tole_Med
+    3300052: Trassh Bin
+    3300054: Tree_1
+    3300056: Tree_2
+    3300058: Tree_3
+    3300060: Tree_4
+    3300062: Tree_5
+    3300064: WaterTile.
+    3300066: Wooden Bridge
+    3300068: GrassTile.005
+    3300070: GrassTile.006
+    3300072: GroundTile
+    3300074: GTileComplete
+    3300076: GTileCorner
+    3300078: GTileSide
+    3300080: GTileThin
+    3300082: GTileThree
+    3300084: GTileTop
+    3300086: Rock2
+    3300088: Circle
+    4300000: GrassTile.004
+    4300002: GrassTile.003
+    4300004: GrassTile.002
+    4300006: GrassTile.001
+    4300008: DoubleBench
+    4300010: BenchTable
+    4300012: Tree_3
+    4300014: Tile_High
+    4300016: Tile_Intersection
+    4300018: Tile_Area
+    4300020: Tole_Med
+    4300022: WaterTile.
+    4300024: Tile_Corner
+    4300026: Tile_Area2
+    4300028: GrassTile
+    4300030: Bridge
+    4300032: Wooden Bridge
+    4300034: Boat
+    4300036: Tile_Road
+    4300038: Tile_Intersection2
+    4300040: FanceConnector
+    4300042: Fence_0
+    4300044: Rock
+    4300046: Lamp.001
+    4300048: Tree_1
+    4300050: Tree_2
+    4300052: Tree_4
+    4300054: Bush
+    4300056: Flowers
+    4300058: Trassh Bin
+    4300060: Tree_5
+    4300062: Fountain_1
+    4300064: Fountain1
+    4300066: Bench
+    4300068: GrassTile.005
+    4300070: GrassTile.006
+    4300072: GTileThin
+    4300074: GTileThree
+    4300076: GroundTile
+    4300078: GTileCorner
+    4300080: GTileSide
+    4300082: GTileTop
+    4300084: GTileComplete
+    4300086: Rock2
+    4300088: Circle
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
