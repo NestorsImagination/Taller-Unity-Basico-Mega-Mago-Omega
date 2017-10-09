@@ -4,7 +4,12 @@
 /// Controlador para los proyectiles.
 /// </summary>
 public class Tuto_Bullet : MonoBehaviour {
-	public float lifeTime = 4.0f; 	// Tiempo en segundos tras el cual el proyectil será destruido
+
+
+
+	// Código final:
+	//
+	/*public float lifeTime = 4.0f; 	// Tiempo en segundos tras el cual el proyectil será destruido
 
 	private bool destroyed = false; // True si el proyectil ha sido destruido
 
@@ -41,5 +46,5 @@ public class Tuto_Bullet : MonoBehaviour {
 
 			Destroy (this.gameObject); // Destruye el proyectil
 		}
-	}
+	}*/
 }

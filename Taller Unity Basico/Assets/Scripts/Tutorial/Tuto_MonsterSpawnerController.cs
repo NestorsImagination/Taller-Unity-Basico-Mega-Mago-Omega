@@ -5,6 +5,12 @@ using UnityEngine;
 /// Controla los generadores de monstruo.
 /// </summary>
 public class Tuto_MonsterSpawnerController : MonoBehaviour {
+
+
+
+	// Código final:
+	//
+	/*
 	public List<GameObject> monsters;	// Lista de prefabs de monstruos a instanciar
 	public float timeToSpawn;			// Periodo, en segundos, entre generaciones de monstruo
 
@@ -43,5 +49,5 @@ public class Tuto_MonsterSpawnerController : MonoBehaviour {
 	/// </summary>
 	public void turnOff () {
 		activated = false;
-	}
+	}*/
 }

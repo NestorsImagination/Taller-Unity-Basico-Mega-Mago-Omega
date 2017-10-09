@@ -5,6 +5,12 @@ using UnityEngine.AI;
 /// Controlador de los enemigos.
 /// </summary>
 public class Tuto_MonsterController : MonoBehaviour {
+
+
+
+	// Código final:
+	//
+	/*
 	public int health = 5;					// Vida del enemigo (se resta 1 por cada disparo)
 	public GameObject damageParticles;		// Partículas a instanciar al ser dañado
 	public GameObject deathParticles;		// Partículas a instanciar al ser derrotado
@@ -75,5 +81,5 @@ public class Tuto_MonsterController : MonoBehaviour {
 
 		// Destruye este objeto
 		Destroy (gameObject);
-	}
+	}*/
 }

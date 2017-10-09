@@ -7,6 +7,12 @@ using UnityEngine.UI;
 /// Controlador del mago.
 /// </summary>
 public class Tuto_MageController : MonoBehaviour {
+
+
+
+	// Código final:
+	//
+	/*
 	public float speed;				// Velocidad a la que se moverá el mago
 	public GameObject shotPrefab;	// Prefab del proyectil a instanciar
 	public Transform shotGenerator;	// Referencia al objeto desde cuya posición se generarán los proyectiles
@@ -156,5 +162,5 @@ public class Tuto_MageController : MonoBehaviour {
 
 		// Destruye este objeto
 		Destroy (gameObject);
-	}
+	}*/
 }

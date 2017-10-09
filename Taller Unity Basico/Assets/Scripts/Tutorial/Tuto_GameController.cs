@@ -6,6 +6,12 @@ using UnityEngine.SceneManagement;
 /// Controlador principal del juego.
 /// </summary>
 public class Tuto_GameController : MonoBehaviour {
+
+
+
+	// Código final:
+	//
+	/*
 	public Slider healthBar;					// Referencia a la barra de vida
 	public Text healthText;						// Refencia al texto que muestra la vida restante
 	public Image damageScreen;					// Referencia a la imagen en la GUI que avisa al jugador de que ha recibido daño
@@ -91,4 +97,5 @@ public class Tuto_GameController : MonoBehaviour {
 		score += scorePoints; // Suma la puntuación
 		scoreText.text = "Puntuación: " + score; // Actualiza el texto
 	}
+	*/
 }

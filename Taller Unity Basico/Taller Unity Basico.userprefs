@@ -1,13 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Finished\GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tutorial\Tuto_GameController.cs">
     <Files>
-      <File FileName="Assets\Scripts\CameraFollow.cs" Line="21" Column="26" />
-      <File FileName="Assets\Scripts\Tutorial\Tuto_GameController.cs" Line="42" Column="65" />
-      <File FileName="Assets\Scripts\Tutorial\Tuto_MageController.cs" Line="36" Column="107" />
-      <File FileName="Assets\Scripts\Tutorial\Tuto_MonsterController.cs" Line="22" Column="107" />
-      <File FileName="Assets\Scripts\Tutorial\Tuto_MonsterSpawnerController.cs" Line="7" Column="19" />
-      <File FileName="Assets\Scripts\Finished\GameController.cs" Line="42" Column="65" />
+      <File FileName="Assets\Scripts\Tutorial\Tuto_GameController.cs" Line="10" Column="2" />
+      <File FileName="Assets\Scripts\Tutorial\Tuto_MageController.cs" Line="165" Column="5" />
+      <File FileName="Assets\Scripts\Tutorial\Tuto_MonsterController.cs" Line="84" Column="5" />
+      <File FileName="Assets\Scripts\Tutorial\Tuto_MonsterSpawnerController.cs" Line="52" Column="5" />
+      <File FileName="Assets\Scripts\Tutorial\Tuto_Bullet.cs" Line="18" Column="87" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
